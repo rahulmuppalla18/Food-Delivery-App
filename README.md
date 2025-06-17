@@ -57,23 +57,3 @@ yarn dev
 npm run build
 # or
 yarn build
-
-##🧠 Skills Gained
--ReactJS (Hooks, Functional Components, Router)
--State Management (Context API)
--CSS (Flexbox, Grid, media queries)
--SPA Development (React Router v6)
--Vite as a modern build tool
--Component-based architecture
--Performance Optimization (lazy loading, code splitting)
-
-##✨ Future Improvements
--Connect with backend API for live data
--Add payment gateway integration (Razorpay, Stripe, PayPal)
--Real-time order tracking & notifications
--Improved animations and transitions
-##🤝 Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-##📄 License
-MIT License — feel free to use and modify this project.
