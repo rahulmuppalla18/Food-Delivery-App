@@ -1,0 +1,32 @@
+th {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart__img-box {
+    width: 80px;
+}
+
+.cart__img-box img {
+    width: 100%;
+}
+
+.cart__item-delete i {
+    cursor: pointer;
+}
+
+.cart__page-btn button a:hover{
+    color: white;
+}
+
+.cart__subtotal {
+    font-size: 1.7rem;
+    color: #df2020;
+}
+
+@media (max-width: 768px) {
+    th, td {
+        font-size: .8rem;
+    }
+}
