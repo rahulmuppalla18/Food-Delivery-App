@@ -44,20 +44,16 @@ package.json
 
 ### Installation
 
-1. **Clone the repo**
-```bash
-git clone https://github.com/yourusername/food-delivery-frontend.git
-cd food-delivery-frontend
-2. **Install dependencies**
+
  ```npm install
 # or
 yarn install
 
-3. **Start the development server**
+ **Start the development server**
 ```npm run dev
 # or
 yarn dev
-4. **Build for production**
+ **Build for production**
 npm run build
 # or
 yarn build
